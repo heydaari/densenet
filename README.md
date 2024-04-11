@@ -1,2 +1,2 @@
 # DenseNet
-# DenseNet Implementation with Tensorflow-Keras
+## DenseNet Implementation with Tensorflow-Keras
