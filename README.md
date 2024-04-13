@@ -1,4 +1,4 @@
 # DenseNet
 ## DenseNet Implementation with Tensorflow-Keras
 
-![alt text](https://th.bing.com/th/id/OIP.W7N5r8BASrIjI9k4y3HYXwHaEF?rs=1&pid=ImgDetMain)
+![alt text](https://th.bing.com/th/id/R.9bc2e97eb9cd4be6d5502f208a5f5e57?rik=YUDpAYqxzlKRog&pid=ImgRaw&r=0)
