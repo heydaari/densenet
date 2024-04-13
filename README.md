@@ -17,7 +17,9 @@ The model is trained on 10,000 training images and tested on 1,000 test images f
 
 ## Model
 The DenseNet model was trained for 5 epochs with a batch size of 32 using the Adam optimizer. The training accuracy achieved was 62%, and the validation accuracy was 58%.
+
 The architecture of it includes 3 dense-blocks with k=4 batchnorm-relu-conv layers , each one following transition layer with batchnorm-relu-conv and a avgpool layer.
+
 After these feature extraction block , we added a Flatten layer and two dense layers for classification.
 The whole model has around 7.5m parameters 
 
